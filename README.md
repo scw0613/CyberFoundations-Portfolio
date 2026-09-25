@@ -10,6 +10,8 @@ It was my intent to be more involved in hardware, but I unintentionally chose ca
 
 I've been trying to pivot into an area of cybersecurity for a few years now, but I've been trying to focus on too many things instead of the best things. I'm hoping this class provides a reset with the best foundation for me to move forward.
 
+
+
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
 This is your working portfolio — **not the instructor repository.** All lesson content and lab instructions live here, in your own repo — you never need to pull anything from an instructor repo.
