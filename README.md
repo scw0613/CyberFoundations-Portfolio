@@ -4,7 +4,8 @@
 
 ## About Me
 
-[Replace this paragraph with at least three sentences: who you are, why you are learning cybersecurity, and one learning goal for this course. Keep the `## About Me` heading and the rest of this README.]
+My name is Selerya Ward. I graduated from Southern University right after the tech crash and less than a year after 9/11. I started in tech support at Dell, then got a job at a healthcare company, which later became DaVita Inc.
+It was my intent to be more involved in hardware, but I unintentionally chose career paths that were more focused on software. After a very serious rollover car crash last year, I had 6 months of leave to seriously think about what I wanted to do and what direction I wanted to go in while I recovered from my injuries. I've been trying to pivot into an area of cybersecurity for a few years now, but I've been trying to focus on too many things instead of the best things. I'm hoping this class provides a reset with the best foundation for me to move forward.
 
 This repository documents your hands-on learning through the **CyberVisionaries Institute Cyber Foundations (Tier I)** program.
 
