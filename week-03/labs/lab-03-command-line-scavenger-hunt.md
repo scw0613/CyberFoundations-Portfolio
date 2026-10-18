@@ -237,6 +237,9 @@ Permissions is something that interests me, since my work computer was recently 
 
 Same mechanism as Labs 01 and 02: fill out this lab's worksheet in the **CyberFoundations Lab Portal** (Week 3 → Lab 03) and click **Submit to GitHub** — the Portal commits the completed file to `week-03/labs/lab-03-command-line-scavenger-hunt.md` automatically. No manual typing or commit needed.
 
+
+https://raw.githubusercontent.com/scw0613/CyberFoundations-Portfolio/refs/heads/main/assets/screenshots/week-03/Lab03.png 
+
 **📌 Optional:** a CLI Simulator session screenshot can be added the same way as Labs 01 and 02 — upload to `assets/screenshots/week-03/`, then right-click the uploaded image and choose **Copy image address**/**Copy Image Link** to embed it — but it isn't required and won't affect your grade.
 
 ---
