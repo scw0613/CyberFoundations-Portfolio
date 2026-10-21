@@ -244,13 +244,13 @@ Based on the initial summary given, I chose the B2s VM since it was specified to
 
 - [x] **REQUIRED:** `vm-dashboard-running.png` captured with VM running + snapshot visible (Part C, Step 4)
 
-- [ ] VM deleted; warning paraphrased and final cost recorded (Part C, Step 5)
+- [x] VM deleted; warning paraphrased and final cost recorded (Part C, Step 5)
 
-- [ ] All four Concept Checks passed in the simulator
+- [x] All four Concept Checks passed in the simulator
 
-- [ ] All four Analysis Questions answered (minimum sentence counts met)
+- [x] All four Analysis Questions answered (minimum sentence counts met)
 
-- [ ] This file is committed to your portfolio repo at `week-04/labs/lab-03-vm-builder.md`
+- [x] This file is committed to your portfolio repo at `week-04/labs/lab-03-vm-builder.md`
 
 ---
 
